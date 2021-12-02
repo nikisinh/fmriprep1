@@ -3,7 +3,7 @@
 #Edits by Andrew Jahn, University of Michigan, 07.22.2020
 
 #User inputs:
-bids_root_dir=$HOME/Desktop/Flanker
+bids_root_dir=C:\Users\Nikita\OneDrive\Desktop\FLANKER\CODE
 subj=08
 nthreads=4
 mem=20 #gb
